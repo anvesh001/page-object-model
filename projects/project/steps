@@ -1,0 +1,7 @@
+Sample Project:
+1.Create a test for google Search
+2.add implicit wait of 10sec
+3.maximize window
+4.Create Unittests
+5.add HTML report libarary
+6.Run from command line
